@@ -10975,6 +10975,11 @@ header.masthead .masthead-heading {
     padding-bottom: 12.5rem;
     height: 1000px;
   }
+
+  header.masthead img{
+    height: 1330px !important;
+  }
+
   header.masthead .masthead-subheading {
     font-size: 2.25rem;
     font-style: italic;
